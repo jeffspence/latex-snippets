@@ -1,6 +1,11 @@
 # latex-snippets
 Useful snippets for LaTeX
 
+
+## Table of Contents
+* [Truncate author lists](#truncating-author-lists)
+
+
 ## Truncating author lists
 Problem:
 Papers with many authors can take up multiple pages in the bibliography.
